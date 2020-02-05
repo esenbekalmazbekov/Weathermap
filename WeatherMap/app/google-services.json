@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518678954332",
+    "firebase_url": "https://weathermap-261317.firebaseio.com",
+    "project_id": "weathermap-261317",
+    "storage_bucket": "weathermap-261317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518678954332:android:17caffbdd04ed3e68ec199",
+        "android_client_info": {
+          "package_name": "com.example.weathermap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518678954332-3kp2l1lmn67tv7s5861o0651u1c8dpbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weathermap",
+            "certificate_hash": "dc83af01103d23f863001432e527e304bea759d9"
+          }
+        },
+        {
+          "client_id": "518678954332-vphs4490tdoaj4i4mpholcvp8rreegcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT0Zwe3ii3vh0465sd07g9YZVnD2LTN7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518678954332-vphs4490tdoaj4i4mpholcvp8rreegcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

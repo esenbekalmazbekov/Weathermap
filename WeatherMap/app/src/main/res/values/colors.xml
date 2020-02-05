@@ -11,4 +11,5 @@
     <color name="minTemp">#00a6ff</color>
     <color name="daycolor">#fff700</color>
     <color name="nightcolor">#000000</color>
+    <color name="notification">#00BEFF</color>
 </resources>
